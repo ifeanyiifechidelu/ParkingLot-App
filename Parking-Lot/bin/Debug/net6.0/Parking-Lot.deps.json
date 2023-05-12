@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Parking-Lot/1.0.0": {
+        "dependencies": {
+          "Parking-Lot.Entity": "1.0.0",
+          "Parking-Lot.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "Parking-Lot.dll": {}
+        }
+      },
+      "Parking-Lot.Entity/1.0.0": {
+        "runtime": {
+          "Parking-Lot.Entity.dll": {}
+        }
+      },
+      "Parking-Lot.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Parking-Lot.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Parking-Lot.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Parking-Lot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Parking-Lot.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Parking-Lot.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

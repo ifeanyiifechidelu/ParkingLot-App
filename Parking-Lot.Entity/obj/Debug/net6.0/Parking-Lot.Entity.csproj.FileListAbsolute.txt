@@ -1,0 +1,12 @@
+c:\Users\Decagon\Desktop\Parking-Lot-App\Parking-Lot.Entity\obj\Debug\net6.0\Parking-Lot.Entity.csproj.AssemblyReference.cache
+c:\Users\Decagon\Desktop\Parking-Lot-App\Parking-Lot.Entity\obj\Debug\net6.0\Parking-Lot.Entity.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Decagon\Desktop\Parking-Lot-App\Parking-Lot.Entity\obj\Debug\net6.0\Parking-Lot.Entity.AssemblyInfoInputs.cache
+c:\Users\Decagon\Desktop\Parking-Lot-App\Parking-Lot.Entity\obj\Debug\net6.0\Parking-Lot.Entity.AssemblyInfo.cs
+c:\Users\Decagon\Desktop\Parking-Lot-App\Parking-Lot.Entity\obj\Debug\net6.0\Parking-Lot.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\Parking-Lot-App\Parking-Lot.Entity\bin\Debug\net6.0\Parking-Lot.Entity.deps.json
+C:\Users\Decagon\Desktop\Parking-Lot-App\Parking-Lot.Entity\bin\Debug\net6.0\Parking-Lot.Entity.dll
+C:\Users\Decagon\Desktop\Parking-Lot-App\Parking-Lot.Entity\bin\Debug\net6.0\Parking-Lot.Entity.pdb
+C:\Users\Decagon\Desktop\Parking-Lot-App\Parking-Lot.Entity\obj\Debug\net6.0\Parking-Lot.Entity.dll
+C:\Users\Decagon\Desktop\Parking-Lot-App\Parking-Lot.Entity\obj\Debug\net6.0\refint\Parking-Lot.Entity.dll
+C:\Users\Decagon\Desktop\Parking-Lot-App\Parking-Lot.Entity\obj\Debug\net6.0\Parking-Lot.Entity.pdb
+C:\Users\Decagon\Desktop\Parking-Lot-App\Parking-Lot.Entity\obj\Debug\net6.0\ref\Parking-Lot.Entity.dll

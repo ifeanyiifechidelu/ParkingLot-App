@@ -1,0 +1,15 @@
+C:\Users\Decagon\Desktop\Parking-Lot-App\Parking-Lot.Infrastructure\obj\Debug\net6.0\Parking-Lot.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\Parking-Lot-App\Parking-Lot.Infrastructure\obj\Debug\net6.0\Parking-Lot.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\Parking-Lot-App\Parking-Lot.Infrastructure\obj\Debug\net6.0\Parking-Lot.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\Parking-Lot-App\Parking-Lot.Infrastructure\obj\Debug\net6.0\Parking-Lot.Infrastructure.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\Parking-Lot-App\Parking-Lot.Infrastructure\obj\Debug\net6.0\Parking-Lot.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\Parking-Lot-App\Parking-Lot.Infrastructure\bin\Debug\net6.0\Parking-Lot.Infrastructure.deps.json
+C:\Users\Decagon\Desktop\Parking-Lot-App\Parking-Lot.Infrastructure\bin\Debug\net6.0\Parking-Lot.Infrastructure.dll
+C:\Users\Decagon\Desktop\Parking-Lot-App\Parking-Lot.Infrastructure\bin\Debug\net6.0\Parking-Lot.Infrastructure.pdb
+C:\Users\Decagon\Desktop\Parking-Lot-App\Parking-Lot.Infrastructure\bin\Debug\net6.0\Parking-Lot.Entity.dll
+C:\Users\Decagon\Desktop\Parking-Lot-App\Parking-Lot.Infrastructure\bin\Debug\net6.0\Parking-Lot.Entity.pdb
+C:\Users\Decagon\Desktop\Parking-Lot-App\Parking-Lot.Infrastructure\obj\Debug\net6.0\Parking-Lot.Infrastructure.csproj.CopyComplete
+C:\Users\Decagon\Desktop\Parking-Lot-App\Parking-Lot.Infrastructure\obj\Debug\net6.0\Parking-Lot.Infrastructure.dll
+C:\Users\Decagon\Desktop\Parking-Lot-App\Parking-Lot.Infrastructure\obj\Debug\net6.0\refint\Parking-Lot.Infrastructure.dll
+C:\Users\Decagon\Desktop\Parking-Lot-App\Parking-Lot.Infrastructure\obj\Debug\net6.0\Parking-Lot.Infrastructure.pdb
+C:\Users\Decagon\Desktop\Parking-Lot-App\Parking-Lot.Infrastructure\obj\Debug\net6.0\ref\Parking-Lot.Infrastructure.dll
