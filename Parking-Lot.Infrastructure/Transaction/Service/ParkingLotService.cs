@@ -78,7 +78,7 @@ namespace Parking_Lot.Infrastructure.Transaction.Service
         public decimal CalculateFee(VehicleType vehicleType, DateTime entryDateTime, DateTime exitDateTime)
         {
             TimeSpan duration = exitDateTime - entryDateTime;
-            IFee feeModel = vehicleType switch
+            IFeeService feeModel = vehicleType switch
             {
                 VehicleType.Motorcycle or VehicleType.Car => new MallFee(),
                 VehicleType.Bus or VehicleType.Truck => new StadiumFee(),

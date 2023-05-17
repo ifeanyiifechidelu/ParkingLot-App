@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Parking_Lot.Entity.ParkingLot.Service
 {
-    public interface IFee
+    public interface IFeeService
     {
         public decimal CalculateFee(TimeSpan duration);
     }
