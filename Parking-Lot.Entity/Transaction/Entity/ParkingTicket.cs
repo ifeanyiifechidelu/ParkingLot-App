@@ -11,6 +11,6 @@ namespace Parking_Lot.Entity.Transaction.Entity
         public string TicketNumber { get; set; } = null!;
         public int SpotNumber { get; set; }
         public DateTime EntryDateTime { get; set; }
-        public Vehicle? Vehicle { get; set; }
+        public Vehicle Vehicle { get; set; } = null!;
     }
 }

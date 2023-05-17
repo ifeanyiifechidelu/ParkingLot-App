@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
 namespace Parking_Lot.Entity.ParkingLot.Service
 {
-    public class AirPortFee : Fee
+    public class AirPortFee : IFee
     {
-        public override decimal CalculateFee(TimeSpan duration)
+        public decimal CalculateFee(TimeSpan duration)
         {
             if (duration.TotalDays < 1)
                 return 0;

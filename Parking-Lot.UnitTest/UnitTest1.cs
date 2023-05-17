@@ -12,7 +12,7 @@ public class Tests
     [SetUp]
     public void Setup()
     {
-        parkingLot = new ParkingLotService(100, 80, 40);
+        parkingLot = new ParkingLotService(100, 80, 40, 20);
     }
 
     [Test]
@@ -26,10 +26,13 @@ public class Tests
 
         // Assert
         Assert.That(ticket, Is.Not.Null);
-        Assert.That(ticket.Vehicle.Type, Is.EqualTo(VehicleType.Motorcycle));
-        Assert.That(ticket.Vehicle.Size, Is.EqualTo(1));
-        Assert.That(ticket.SpotNumber, Is.GreaterThan(0));
-        Assert.That(ticket.EntryDateTime, Is.EqualTo(DateTime.Now));
+        Assert.Multiple(() =>
+        {
+            Assert.That(ticket.Vehicle.Type, Is.EqualTo(VehicleType.Motorcycle));
+            Assert.That(ticket.Vehicle.Size, Is.EqualTo(1));
+            Assert.That(ticket.SpotNumber, Is.GreaterThan(0));
+            Assert.That(ticket.EntryDateTime, Is.EqualTo(DateTime.Now));
+        });
     }
 
     [Test]
@@ -58,8 +61,11 @@ public class Tests
         // Assert
         Assert.That(receipt, Is.Not.Null);
         Assert.That(receipt.EntryDateTime, Is.EqualTo(ticket.EntryDateTime));
-        Assert.That(receipt.ExitDateTime, Is.GreaterThan(ticket.EntryDateTime));
-        Assert.That(receipt.Fee, Is.GreaterThanOrEqualTo(0));
+        Assert.Multiple(() =>
+        {
+            Assert.That(receipt.ExitDateTime, Is.GreaterThan(ticket.EntryDateTime));
+            Assert.That(receipt.Fee, Is.GreaterThanOrEqualTo(0));
+        });
     }
 
     [Test]

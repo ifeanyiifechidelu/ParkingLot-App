@@ -4,7 +4,7 @@ using Parking_Lot.Entity.ParkingLot.Entity;
 using Parking_Lot.Entity.Transaction.Entity;
 
     // Example usage
-    ParkingLotService parkingLot = new(100, 80, 40);
+    ParkingLotService parkingLot = new(100, 80, 40, 20);
 
     // Park vehicles
     Vehicle motorcycle = new() { Type = VehicleType.Motorcycle, Size = 1 };

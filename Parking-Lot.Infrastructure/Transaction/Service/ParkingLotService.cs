@@ -13,14 +13,14 @@ namespace Parking_Lot.Infrastructure.Transaction.Service
     {
         private readonly Dictionary<VehicleType, List<ParkingSpot>> _spots;
 
-        public ParkingLotService(int motorcycleSpots, int carSpots, int busTruckSpots)
+        public ParkingLotService(int motorcycleSpots, int carSpots, int busSpots, int truckSpots)
         {
             _spots = new Dictionary<VehicleType, List<ParkingSpot>>
             {
                 [VehicleType.Motorcycle] = InitializeSpots(motorcycleSpots),
                 [VehicleType.Car] = InitializeSpots(carSpots),
-                [VehicleType.Bus] = InitializeSpots(busTruckSpots),
-                [VehicleType.Truck] = InitializeSpots(busTruckSpots)
+                [VehicleType.Bus] = InitializeSpots(busSpots),
+                [VehicleType.Truck] = InitializeSpots(truckSpots)
             };
         }
 
@@ -78,7 +78,7 @@ namespace Parking_Lot.Infrastructure.Transaction.Service
         public decimal CalculateFee(VehicleType vehicleType, DateTime entryDateTime, DateTime exitDateTime)
         {
             TimeSpan duration = exitDateTime - entryDateTime;
-            Fee feeModel = vehicleType switch
+            IFee feeModel = vehicleType switch
             {
                 VehicleType.Motorcycle or VehicleType.Car => new MallFee(),
                 VehicleType.Bus or VehicleType.Truck => new StadiumFee(),

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.UnitTest\\Parking-Lot.UnitTest.csproj": {}
+    "C:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.UnitTest\\Parking-Lot.UnitTest.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.Entity\\Parking-Lot.Entity.csproj": {
+    "C:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.Entity\\Parking-Lot.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.Entity\\Parking-Lot.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.Entity\\Parking-Lot.Entity.csproj",
         "projectName": "Parking-Lot.Entity",
-        "projectPath": "c:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.Entity\\Parking-Lot.Entity.csproj",
+        "projectPath": "C:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.Entity\\Parking-Lot.Entity.csproj",
         "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.Entity\\obj\\",
+        "outputPath": "C:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "c:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.Infrastructure\\Parking-Lot.Infrastructure.csproj": {
+    "C:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.Infrastructure\\Parking-Lot.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.Infrastructure\\Parking-Lot.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.Infrastructure\\Parking-Lot.Infrastructure.csproj",
         "projectName": "Parking-Lot.Infrastructure",
-        "projectPath": "c:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.Infrastructure\\Parking-Lot.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.Infrastructure\\Parking-Lot.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -90,8 +90,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.Entity\\Parking-Lot.Entity.csproj": {
-                "projectPath": "c:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.Entity\\Parking-Lot.Entity.csproj"
+              "C:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.Entity\\Parking-Lot.Entity.csproj": {
+                "projectPath": "C:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.Entity\\Parking-Lot.Entity.csproj"
               }
             }
           }
@@ -124,14 +124,14 @@
         }
       }
     },
-    "c:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.UnitTest\\Parking-Lot.UnitTest.csproj": {
+    "C:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.UnitTest\\Parking-Lot.UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.UnitTest\\Parking-Lot.UnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.UnitTest\\Parking-Lot.UnitTest.csproj",
         "projectName": "Parking-Lot.UnitTest",
-        "projectPath": "c:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.UnitTest\\Parking-Lot.UnitTest.csproj",
+        "projectPath": "C:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.UnitTest\\Parking-Lot.UnitTest.csproj",
         "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.UnitTest\\obj\\",
+        "outputPath": "C:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.UnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -152,11 +152,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.Entity\\Parking-Lot.Entity.csproj": {
-                "projectPath": "c:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.Entity\\Parking-Lot.Entity.csproj"
+              "C:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.Entity\\Parking-Lot.Entity.csproj": {
+                "projectPath": "C:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.Entity\\Parking-Lot.Entity.csproj"
               },
-              "c:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.Infrastructure\\Parking-Lot.Infrastructure.csproj": {
-                "projectPath": "c:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.Infrastructure\\Parking-Lot.Infrastructure.csproj"
+              "C:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.Infrastructure\\Parking-Lot.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.Infrastructure\\Parking-Lot.Infrastructure.csproj"
               }
             }
           }

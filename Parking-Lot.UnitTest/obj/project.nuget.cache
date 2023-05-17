@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9gibMiEzK/Fr4skB+cw7O5Qc5A/uUh4ObDlwdTSYxsNQxW9zN/8zKGVrt47TPZPEJtu9qBj2E91Yf1FT96bvBQ==",
+  "dgSpecHash": "kDln55rfehvzsOnvrl62FWAmJ3BY3YccF8C8Q7DyVXqAOZZW9N3kwHIlbQP+bNpGu+IHNURtko88OAvl4jQxXA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.UnitTest\\Parking-Lot.UnitTest.csproj",
+  "projectFilePath": "C:\\Users\\Decagon\\Desktop\\Parking-Lot-App\\Parking-Lot.UnitTest\\Parking-Lot.UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Decagon\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Decagon\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

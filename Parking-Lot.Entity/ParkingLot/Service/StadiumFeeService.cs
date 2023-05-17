@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
 namespace Parking_Lot.Entity.ParkingLot.Service
 {
-    public class StadiumFee : Fee
+    public class StadiumFee : IFee
     {
-        public override decimal CalculateFee(TimeSpan duration)
+        public decimal CalculateFee(TimeSpan duration)
         {
             if (duration.TotalHours < 4)
                 return 30;
